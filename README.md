@@ -69,13 +69,21 @@ ___
 
 ___
 ## <em>STAGE ONE (MVP)<em>
-  * ?
-  * ?
-  * ?
-  * ?
-  * ?
-  * ?
-  * ?
+  * Clean and Intuitive User Interface
+  * Mobile Reporting:
+    - Generate Reports from Template Library
+    - Stored Template Library
+    - Attach Files (Video, Photo and Text Document file) to user generated reports
+  * Report Management:
+    - Generate New Report Templates
+    - Search and Filter Reports
+    - Export Selected Reports to PDF format
+  * GPS Location Tracking
+  * Administrative Controls:
+    - Designate Admin Users
+    - Register New Users/Officers
+    - Officer/User status alerts
+    - Automatic shift end for logged off non-admin users & Vice Versa
 
 ## <em>STAGE TWO<em>
   * ?
@@ -83,12 +91,8 @@ ___
   * ?
   * ?
   * ?
-  * ?
-  * ?
 
 ## <em>STAGE TWO<em>
-  * ?
-  * ?
   * ?
   * ?
   * ?
